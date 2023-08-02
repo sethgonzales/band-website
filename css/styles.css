@@ -1,0 +1,9 @@
+.banner {
+    float:top;
+    width: 100%;
+}
+.left {
+    float:left;
+    width: 50%;
+    padding-right: 10%;
+}
